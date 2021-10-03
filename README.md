@@ -13,6 +13,11 @@ I am a self-motivated and passionate front-end developer with experience in buil
 - 😄 Pronouns: She/her.
 - ⚡ Fun fact: The deepest form of motivation is intrinsic and only you can give it to yourself.
 
+<!--[![Toriola's GitHub stats](https://github-readme-stats.vercel.app/api?username=toriola998)](https://github.com/toriola998/github-readme-stats)-->
+![Toriola's GitHub stats](https://github-readme-stats.vercel.app/api?username=toriola998&show_icons=true&theme=radical)
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=toriola998&title_color=47ff78&text_color=efefed&icon_color=47ff78&bg_color=0b0b0c&line_height=27">
+
+
 
 
 ### Get in touch :sparkles:
