@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Toriola Faidat Olabisi, you can call me Toriola.:simple_smile:
-I am a self-motivated and passionate front-end developer with experience in building and maintaining responsive websites. Skilled in HTML/CSS, SCSS, JavaScript, Vue, Vue router, VueX, NuxtJs amongst other amazing tools and technologies. I love problem-solving, working within a team, and bouncing ideas off each other to find a solution. I love those exciting moments when a plan comes together or when I finally solve a problem.
+I am a self-motivated and passionate front-end developer with experience in building and maintaining responsive websites. Skilled in HTML/CSS, SCSS, JavaScript, Vue, Vue router, VueX, Vuetify, NuxtJs amongst other amazing tools and technologies. I love problem-solving, working within a team, and bouncing ideas off each other to find a solution. I love those exciting moments when a plan comes together or when I finally solve a problem.
 
 
 <!-- 🔭 I’m currently working on a ...-->
